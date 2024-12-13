@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
 
-# Fuck one liners you lazy buffoons.
-
 # one-liner to convert ASN to ip addresses. Results will be appended to `ips.out`. sander@cedsys.nl | 1-7-2017
 # Requires: sudo apt install prips httprobe
 
+# Added to the original script.
 FILE=""
 OUTPUTFILE=""
 
