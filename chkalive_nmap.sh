@@ -1,5 +1,6 @@
-
 #!/usr/bin/env bash
+
+# Originally used fping, but discovered that it didn't work for what I needed so switched to nmap.
 
 FILE="$1"
 
