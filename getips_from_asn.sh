@@ -2,6 +2,7 @@
 
 # one-liner to convert ASN to ip addresses. Results will be appended to `ips.out`. sander@cedsys.nl | 1-7-2017
 
+# Took original script and split it into two seperate scripts, but also added to it to make it work for me.
 ASNFILE=""
 OUTPUTFILE=""
 
